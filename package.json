@@ -1,0 +1,17 @@
+{
+  "name": "backend-yt",
+  "version": "1.0.0",
+  "description": "This is backend for cors avoiding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cross-fetch": "^4.0.0",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  }
+}
